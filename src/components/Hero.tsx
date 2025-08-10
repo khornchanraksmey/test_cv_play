@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
             />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-[#ea638c] via-[#72ddf7] to-[#ea638c] dark:from-[#72ddf7] dark:via-[#ea638c] dark:to-[#72ddf7] bg-clip-text text-transparent">
-            KHORN CHANRAKSMEY
+            CHANRAKSMEY
           </h1>
 
           {/* Typing line */}
